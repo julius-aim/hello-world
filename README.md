@@ -2,3 +2,5 @@
 Gitチュートリアル
 
 Git tutorial
+
+GitHub上でも編集できる！
