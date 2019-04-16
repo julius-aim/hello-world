@@ -7,3 +7,4 @@ Gitチュートリアル
 
 あでが
 diffdiff
+masterブランチでの変更
