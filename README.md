@@ -8,3 +8,5 @@ Gitチュートリアル
 あでが
 diffdiff
 masterブランチでの変更
+
+rebase -iの練習
