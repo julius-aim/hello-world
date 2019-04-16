@@ -1,3 +1,0 @@
-ｄｒｇｈｄｚ
-fooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-baaaaaaaaaaaaaaaaaaaaaaaaaaar
